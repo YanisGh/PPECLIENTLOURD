@@ -1,0 +1,4 @@
+C:\Users\yanis\source\repos\PPEBDD\PPEBDD\bin\Debug\netcoreapp3.1\PPEBDD.exe
+C:\Users\yanis\source\repos\PPEBDD\PPEBDD\obj\Debug\netcoreapp3.1\PPEBDD.csprojAssemblyReference.cache
+C:\Users\yanis\source\repos\PPEBDD\PPEBDD\obj\Debug\netcoreapp3.1\PPEBDD.AssemblyInfoInputs.cache
+C:\Users\yanis\source\repos\PPEBDD\PPEBDD\obj\Debug\netcoreapp3.1\PPEBDD.AssemblyInfo.cs
